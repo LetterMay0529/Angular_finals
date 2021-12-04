@@ -1,0 +1,23 @@
+main {
+    display: grid;
+    grid-template-columns: 200px 200px 200px;
+    grid-gap: 0px;
+}
+  
+app-square {
+    border: 1px gray solid;
+    height: 200px;
+}
+.container{
+    margin-left: 35%;
+}
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+button{
+    background-color: rgb(97, 189, 189)  ;
+    height: 50px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+    
+}
